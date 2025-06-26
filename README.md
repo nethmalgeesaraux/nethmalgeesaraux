@@ -17,7 +17,7 @@
 - **Email:** nethmalgeesara098@gmail.com
 
 ### ⚡ Fun fact:
-- You can call me **Net** 😄
+- You can call me **MACRO** 😄
 
 ---
 
