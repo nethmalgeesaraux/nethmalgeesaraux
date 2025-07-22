@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="linkedin.com/in/nethmal-geesara-473962351" target="_blank">
+  <a href="https://www.linkedin.com/in/nethmal-geesara-473962351/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://web.facebook.com/nethmal.geesara.3" target="_blank">
